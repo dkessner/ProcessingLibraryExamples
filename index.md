@@ -16,14 +16,11 @@ can be illustrated nicely with computer graphics.
 
 ## Install software
 
-Processing (_Pay attention to where you install it!_)  
-[https://processing.org/](https://processing.org/)  
+[Processing](https://processing.org/)  (_Pay attention to where you install it!_)  
 
-Java Development Kit   
-[JDK SE 8](https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html)  
+[Java Development Kit JDK SE 8](https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html)  
 
-Text editor or Integrated Development Environment (IDE)   
-[Atom text editor](https://atom.io/)  
+[Text editor](https://atom.io/) or Integrated Development Environment (IDE).  
 
 
 ## Set the CLASSPATH environment variable
