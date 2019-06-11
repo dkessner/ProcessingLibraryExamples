@@ -40,9 +40,9 @@ These code examples are licensed under the [GPL v2.0](license.html), which means
 to copy and use the code, but if you distribute a modified program, you must
 also distribute your code.
 
-__Dr. Darren Kessner__   
-__[Darren.Kessner@marlborough.org](mailto:Darren.Kessner@marlborough.org)__  
-__[STEM+ Program](http://stem.marlborough.org)__  
-__[Marlborough School, Los Angeles](http://marlborough.org)__  
+Dr. Darren Kessner  
+[Darren.Kessner@marlborough.org](mailto:Darren.Kessner@marlborough.org)  
+[STEM+ Program](http://stem.marlborough.org)  
+[Marlborough School, Los Angeles](http://marlborough.org)  
 
 
