@@ -20,11 +20,11 @@
 */
 
 
-public static final int windowSize = 700;
+public static final int windowSize = 400;
 
 public void setup()
 {
-    size(700, 700);
+    size(400, 400);
 }
 
 private int level = 0;
@@ -80,11 +80,11 @@ public void draw()
     // print level
 
     fill(255);
-    textSize(20);
-    text("Change level: UP/DOWN", 50, 50);
-    text("Toggle snowflake: s", width-300, 50);
-    textSize(40);
-    text("" + level, 50, 100);
+    textSize(15);
+    text("Change level: UP/DOWN", 50, 30);
+    text("Toggle snowflake: s", 50, 60);
+    textSize(30);
+    text("" + level, width-50, 30);
 
     // transform to standard coordinate system
 

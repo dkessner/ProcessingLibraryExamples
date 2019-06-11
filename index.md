@@ -78,6 +78,8 @@ __Recursion application: fractals__
 
 [Snowflake.java](Snowflake.java)
 
+<canvas data-processing-sources="Snowflake/Snowflake.pde"></canvas>
+
 
 ## More info
 
