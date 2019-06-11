@@ -67,14 +67,21 @@ the main `PApplet` class so that it can call the Processing drawing functions.
 
 ## Applications
 
-Graphics programming is a natural place to use object oriented programming
-techniques, e.g. the `Ball` class in the `HelloProcessing2` example.
+Object oriented programming techniques are very useful in computer graphics
+programming, e.g. the `Ball` class in the `HelloProcessing2` example.  Here are
+some other ideas for illustrating concepts from AP Computer Science A with the
+Processing libraries.
 
-__2D array application: image processing__
+__2D array application: Image Processing__
 
 [ImageProcessing.java](ImageProcessing.java)
 
-__Recursion application: fractals__
+<img src="ImageProcessing_screenshots/redoff.png" width="200"> 
+<img src="ImageProcessing_screenshots/greenoff.png" width="200"> 
+<img src="ImageProcessing_screenshots/blueoff.png" width="200"> 
+<img src="ImageProcessing_screenshots/mirror.png" width="200"> 
+
+__Recursion application: Fractals__
 
 [Snowflake.java](Snowflake.java)
 
