@@ -1,7 +1,3 @@
-__Processing Library Examples__
-__Dr. Darren Kessner__
-__Marlborough School, Los Angeles__
-
 ## Install Processing
 
 Pay attention to where you install it.
@@ -14,15 +10,14 @@ You need to set the environment variable `CLASSPATH`.
 
 Processing embeds everything into a Java class.
 
-__Example__
 [HelloProcessing.java](HelloProcessing.java)
 
 ## Using external classes
 
 You need to give other classes a reference to the `PApplet` class.  
 
-__Example__
-[HelloProcessing2.java](HelloProcessing2.java)
+[HelloProcessing2.java](HelloProcessing2.java)  
+[Ball.java](Ball.java)
 
 
 ## Applications
@@ -36,5 +31,18 @@ __2D array application: image processing__
 
 __Recursion application: fractals__
 
-[ImageProcessing.java](ImageProcessing.java)
+[Snowflake.java](Snowflake.java)
+
+
+## More info
+
+These code examples are licensed under the [GPL v2.0](license.html), which means you are free
+to copy and use the code, but if you distribute a modified program, you must
+also distribute your code.
+
+__Dr. Darren Kessner__   
+__[Darren.Kessner@marlborough.org](mailto:Darren.Kessner@marlborough.org)__  
+__[STEM+ Program](http://stem.marlborough.org)__  
+__[Marlborough School, Los Angeles](http://marlborough.org)__  
+
 
