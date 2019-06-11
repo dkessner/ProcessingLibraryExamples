@@ -36,9 +36,12 @@ __Recursion application: fractals__
 
 ## More info
 
-These code examples are licensed under the [GPL v2.0](license.html), which means you are free
+These code examples are licensed under the [GPL v2.0](license), which means you are free
 to copy and use the code, but if you distribute a modified program, you must
-also distribute your code.
+also distribute your code.   
+
+You can download all the code examples from the Github repository:  
+[https://github.com/dkessner/ProcessingLibraryExamples](https://github.com/dkessner/ProcessingLibraryExamples)
 
 Dr. Darren Kessner  
 [Darren.Kessner@marlborough.org](mailto:Darren.Kessner@marlborough.org)  
