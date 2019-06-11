@@ -45,6 +45,16 @@ with, like `size()` and `ellipse()`.
 
 [HelloProcessing.java](HelloProcessing.java)
 
+<script src="processing.min.js"></script>
+<canvas data-processing-sources="HelloProcessing/HelloProcessing.pde"></canvas>
+
+Some things to note:
+
+* There is a `settings()` method, which is where `size()` (or `fullScreen()`)
+  must be called.  The `settings()` function is called before `setup()`.
+* The `PApplet` class has a static `main()` function that you call with the
+  name of your class.
+
 ## Using external classes
 
 You can write your own Java classes, but you need to give them a reference to
@@ -53,6 +63,7 @@ the main `PApplet` class so that it can call the Processing drawing functions.
 [HelloProcessing2.java](HelloProcessing2.java)  
 [Ball.java](Ball.java)
 
+<canvas data-processing-sources="HelloProcessing2/HelloProcessing2.pde HelloProcessing2/Ball.java"></canvas>
 
 ## Applications
 
